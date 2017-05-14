@@ -16,6 +16,10 @@ app.get('/questions', (req, res) => {
     res.json(qanda)
 });
 
+app.post('/submit', (req, res) => {
+
+})
+
 app.listen(port, () => {
     console.log('running on port: ' + port)
 });
