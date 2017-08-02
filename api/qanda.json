@@ -1,10 +1,75 @@
 [
   {
+    "id" : 1,
     "question" : "What's the point of going out? We're just gonna wind up back here anyway.",
-    "answer" : "Homer"
+    "answer" : "Homer",
+    "asked": false
   },
   {
+    "id": 2,
     "question" : "My eyes. The goggles do nothing.",
-    "answer" : "Radioactive Man"
+    "answer" : "Radioactive Man",
+    "asked": false
+  },
+   {
+    "id" : 3,
+    "question" : "How old is Hans Moleman",
+    "answer" : "31",
+    "asked": false
+  },
+  {
+    "id": 4,
+    "question" : "There's only one thing to do at a moment like this: strut!",
+    "answer" : "Bart",
+    "asked": false
+  },
+   {
+    "id" : 5,
+    "question" : "I, for one, welcome our new insect overlords.",
+    "answer" : "Kent Brockman",
+    "asked": false
+  },
+  {
+    "id": 6,
+    "question" : "Loneliness and cheeseburgers are a dangerous mix.",
+    "answer" : "Comic Book Guy",
+    "asked": false
+  },
+   {
+    "id" : 7,
+    "question" : "They taste like burning",
+    "answer" : "ralph wiggum",
+    "asked": false
+  },
+  {
+    "id": 8,
+    "question" : "My eyes. The goggles do nothing.",
+    "answer" : "Radioactive Man",
+    "asked": false
+  },
+   {
+    "id" : 9,
+    "question" : "You tried your best and you failed miserably. The lesson is: Never try.",
+    "answer" : "Homer",
+    "asked": false
+  },
+  {
+    "id": 10,
+    "question" : "Don’t make me run. I’m full of chocolate.",
+    "answer" : "Uter",
+    "asked": false
+  },
+   {
+    "id" : 11,
+    "question" : "I'd rather let thousands of guilty men go free then to chase them",
+    "answer" : "Chief wiggum",
+    "asked": false
+  },
+  {
+    "id": 12,
+    "question" : "Go out on a Tuesday? Who am I, Charlie Sheen?",
+    "answer" : "Marge",
+    "asked": false
   }
 ]
+
