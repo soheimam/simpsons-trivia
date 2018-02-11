@@ -1,3 +1,3 @@
 ## Simpsons trivia
 
-to run: ```npm install && npm start``
+to run: `npm install && npm start`
