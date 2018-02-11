@@ -1,1 +1,3 @@
-## information goes here
+## Simpsons trivia
+
+to run: ```npm install && npm start``
